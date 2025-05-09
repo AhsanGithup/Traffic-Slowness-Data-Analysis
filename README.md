@@ -39,3 +39,4 @@ The dataset includes traffic condition records coded by hour and day of the week
 * 📈 **Morning hours** generally experienced higher slowness percentages.
 * 📊 **Tuesday and Thursday** had more consistent slowness patterns across all time slots.
 
+![istockphoto-159406920-612x612](https://github.com/user-attachments/assets/8615c809-58df-4a8c-a6a4-636d45e1fff2)
